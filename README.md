@@ -1,8 +1,5 @@
 # Debloat
 
-
-### MiUi Warning : Turn off Find Device
-
 ## PROJECT TO DO
 - [ ] All-in-one Android script
 - [x] Google Debloat
