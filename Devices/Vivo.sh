@@ -75,4 +75,3 @@ adb shell pm uninstall --user 0 com.vivo.fuelsummary
 adb shell pm uninstall --user 0 com.vivo.abe
 adb shell pm uninstall --user 0 com.android.DemoVideo
 
-# Use the restore script to restore all factory apps from /system
