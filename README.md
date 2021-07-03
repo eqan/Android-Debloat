@@ -27,7 +27,3 @@
 
 ### Remember to backup your chats and photos
 ### In case of an accident you can retrieve the apps using adb shell cmd package install-existing <package_name>
-
-# Screenshots
-<img src=HomeScreen.png width=40% height=40% align: left>
-<img src=HomeScreen.png width=40% height=40% align: right>
