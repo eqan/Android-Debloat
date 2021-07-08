@@ -1,7 +1,6 @@
 # Debloat
 
 ## PROJECT TO DO
-- [ ] All-in-one Android script
 - [x] Google Debloat
 - [x] Samsung Debloat
 - [x] Vivo
