@@ -54,3 +54,17 @@ pm uninstall --user 0 samsung.android.watch.findmywatch
 pm uninstall --user 0 com.samsung.android.wear.shealth
 pm uninstall --user 0 com.samsung.android.watch.findmyphone
 pm uninstall --user 0 com.samsung.android.mediacontroller
+pm uninstall --user 0 com.samsung.android.watch.flashlight
+pm uninstall --user 0 com.samsung.android.sdk.handwriting.watch
+pm uninstall --user 0 com.samsung.android.aircommandmanager
+pm uninstall --user 0 com.samsung.android.gru
+pm uninstall --user 0 com.samsung.android.apps.wearable.recent
+pm uninstall --user 0 com.samsung.android.dqagent
+pm uninstall --user 0 com.skms.android.agent
+pm uninstall --user 0 com.samsung.android.mcfds
+pm uninstall --user 0 com.sds.emm.cloud.knox.samsung
+pm uninstall --user 0 com.android.devicediagnostics
+pm uninstall --user 0 com.google.android.gsf
+pm uninstall --user 0 com.samsung.android.watch.findmywatch
+pm uninstall --user 0 com.samsung.android.app.find
+pm uninstall --user 0 com.google.android.apps.messaging
